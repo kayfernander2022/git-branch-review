@@ -1,2 +1,1 @@
 function toUpperCase() {}
-function toLowerCase() {}
